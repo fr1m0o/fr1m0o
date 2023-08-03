@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @fr1m0o
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Backend 
+- 🌱 I’m currently learning java 
+- 📫 How to reach me frimoaloy@gmail.com
+- 
+- 
 
 <!---
 fr1m0o/fr1m0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
